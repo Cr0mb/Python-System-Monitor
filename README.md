@@ -23,6 +23,7 @@ This Python script provides a comprehensive set of functionalities to gather and
 > Speed Test: Measure download and upload speeds using speedtest-cli.
 
 > Process Information: List running processes along with their PID, name, and user.
+      > Note: Does not kill processes, only shows them. (may come in future.) 
 
 ## Requirements
 - Python 3.x
