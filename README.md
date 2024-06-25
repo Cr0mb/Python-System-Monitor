@@ -1,3 +1,6 @@
+![image](https://github.com/Cr0mb/Python-System-Information-and-Monitoring-Tool/assets/137664526/861ed2e5-35ea-44ae-8d0b-186c0420b1e6)
+
+
 # Python-System-Information-and-Monitoring-Tool
 This Python script provides a comprehensive set of functionalities to gather and display system information, monitor real-time system metrics, perform speed tests, and display process details. It is useful for understanding various aspects of your system's performance.
 
