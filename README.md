@@ -1,4 +1,4 @@
-![image](https://github.com/Cr0mb/Python-System-Information-and-Monitoring-Tool/assets/137664526/861ed2e5-35ea-44ae-8d0b-186c0420b1e6)
+![image](https://github.com/Cr0mb/Python-System-Monitor/assets/137664526/5a8c82fc-9bd5-430a-94fc-35e5ea4f150c)
 
 
 # System Information and Monitoring Tool
