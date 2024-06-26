@@ -4,6 +4,12 @@
 # System Information and Monitoring Tool
 This Python script provides a comprehensive set of functionalities to gather and display system information, monitor real-time system metrics, perform speed tests, and display process details. It is useful for understanding various aspects of your system's performance.
 
+```
+V1.2
+> Added ability to kill processes
+> Added DLL Injector
+> Added an option to output all system information, (other than all processes)
+```
 ## Features
 
 > System Information: Display details about the operating system, node name, release, version, machine, processor, and hardware ID.
@@ -23,7 +29,10 @@ This Python script provides a comprehensive set of functionalities to gather and
 > Speed Test: Measure download and upload speeds using speedtest-cli.
 
 > Process Information: List running processes along with their PID, name, and user.
-      Note: Does not kill processes, only shows them. (may come in future.) 
+
+> Inject DLL: DLL Injection using ctypes
+
+> Output System Information to 'system.txt' (self explanatory)
 
 ## Requirements
 - Python 3.x
